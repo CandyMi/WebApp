@@ -78,6 +78,14 @@
   
   * 针对每次提交的代码都必须增加提交说明, 用来表达此次对代码修改的用途与意义;
   
- ## 三、项目结构
+## 三、项目结构
 
   * TODO
+  
+## 作者
+ 
+  [CandyMi](https://github.com/CandyMi)
+   
+## 授权
+ 
+  [BSD LICENSE](https://baike.baidu.com/item/BSD%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE )
