@@ -88,4 +88,4 @@
    
 ## 授权
  
-  [BSD LICENSE](https://baike.baidu.com/item/BSD%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE )
+  [MIT License](https://github.com/CandyMi/web-project/blob/master/LICENSE)
