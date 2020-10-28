@@ -46,11 +46,11 @@
 
   项目组不同角色文档内容, 请根据实际角色需要进行选择阅读:
 
-  * [Admin](https://github.com/CandyMi/WebApp/Admin/README.md)
+  * [Admin](https://github.com/CandyMi/WebApp/blob/master/Admin/README.md)
   
-  * [Server](https://github.com/CandyMi/WebApp/Server/README.md)
+  * [Server](https://github.com/CandyMi/WebApp/blob/master/Server/README.md)
   
-  * [Client](https://github.com/CandyMi/WebApp/Client/README.md)
+  * [Client](https://github.com/CandyMi/WebApp/blob/master/Client/README.md)
 
 ## 四、 工作流程
 
