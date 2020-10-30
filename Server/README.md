@@ -1,21 +1,21 @@
 # Server
 
-## 一、项目框架选择
+## 一、项目规范
 
-  这里提供几个社区用户较多的几个框架以供选择, 大家可视实际情况而定选择其一:
+### 1. 项目初始化
+ 
+  * 执行`go mod download`命令下载全局工程依赖;
+  
+  * 执行`go mod vendor`命令创建本地工程依赖;
+  
+### 2. 项目结构
 
-  1. [Gin](https://gin-gonic.com/zh-cn/docs/)
+  * `doc` - 应用文档目录
   
-  2. [beego](https://beego.me)
-  
-  3. [iris](https://learnku.com/docs/iris-go/10/why/3759)
-  
-  4. [buffalo](https://gobuffalo.io)
-  
-  5. [gf](https://goframe.org) 
-  
-  6. 其它待补充...
+  * `logs` - 应用日志目录
 
+  * ``   
+  
 ## 二、开发规范
 
 ### 数据库要求
